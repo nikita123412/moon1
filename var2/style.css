@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    background: rgb(0, 0, 0); 
+    display:inline-block;
+    vertical-align: bottom;
+    margin-left: -1%;
+    margin-top: 1%;
+}
+
+    .block_1 {
+        position: relative;
+        width: 40px;
+        height: 116px;
+        border-radius: 6px 6px 0px 0px;       
+        margin: 2px;            
+        background: repeating-linear-gradient(to bottom, transparent, 
+        transparent 20px, rgb(0, 0, 0) 20px, rgb(0, 0, 0) 24px),
+        linear-gradient(to bottom, #ffcf57, #ff9900);
+      }
+
+      .block_2 {
+        position: relative;
+        width: 40px;
+        height: 44px;
+        border-radius: 8px 8px 0px 0px;   
+        margin: 2px;                    
+        background: repeating-linear-gradient(to bottom, transparent, 
+        transparent 20px, rgb(0, 0, 0) 20px, rgb(0, 0, 0) 24px),
+        linear-gradient(to bottom, #ffcf57, #ff9900);
+      }
+
+      .block_3 {
+        position: relative;
+        width: 40px;
+        height: 188px;
+        border-radius: 8px 8px 0px 0px;
+        margin: 2px;              
+        background: repeating-linear-gradient(to bottom, transparent, 
+        transparent 20px, rgb(0, 0, 0) 20px, rgb(0, 0, 0) 24px),
+        linear-gradient(to bottom, #ffcf57, #ff9900);
+      }
+
+      .block_4 {
+        position: relative;
+        width: 40px;
+        height: 236px;
+        border-radius: 8px 8px 0px 0px;
+        margin: 2px;             
+        background: repeating-linear-gradient(to bottom, transparent, 
+        transparent 20px, rgb(0, 0, 0) 20px, rgb(0, 0, 0) 24px),
+        linear-gradient(to bottom, #ffcf57, #ff9900);
+      }
+
+      .block_5 {
+        position: relative;
+        width: 40px;
+        height: 116px;
+        border-radius: 8px 8px 0px 0px;
+        margin: 2px;             
+        background: repeating-linear-gradient(to bottom, transparent, 
+        transparent 20px, rgb(0, 0, 0) 20px, rgb(0, 0, 0) 24px),
+        linear-gradient(to bottom, #ffcf57, #ff9900);
+      }
+
+      .block_6 {
+        position: relative;
+        width: 40px;
+        height: 68px;
+        border-radius: 8px 8px 0px 0px;   
+        margin: 2px;          
+        background: repeating-linear-gradient(to bottom, transparent, 
+        transparent 20px, rgb(0, 0, 0) 20px, rgb(0, 0, 0) 24px),
+        linear-gradient(to bottom, #ffcf57, #ff9900);
+      }

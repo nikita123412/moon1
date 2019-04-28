@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 15px; 
+  border: 15px solid rgb(149, 205, 139);
+  border-right-color: rgb(175, 211, 169);
+  border-radius: 100%;
+  line-height: 70px;
+  text-align: center;
+  background: rgb(240, 238, 238);
+}
